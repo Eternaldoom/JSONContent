@@ -1,6 +1,6 @@
 package com.eternaldoom.jsoncontent;
 
-public class JSONObject {
+public class JSONFieldObj {
 	
 	public String type;
 	public String name;
@@ -9,5 +9,6 @@ public class JSONObject {
 	public double hardness;
 	public double resistance;
 	public String tabitem;
+	public String tabMod;
 	public int tabid;
 }
