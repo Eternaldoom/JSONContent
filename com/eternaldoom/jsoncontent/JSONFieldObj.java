@@ -8,7 +8,10 @@ public class JSONFieldObj {
 	public String id;
 	public double hardness;
 	public double resistance;
-	public String tabitem;
+	public String tabItem;
 	public String tabMod;
 	public int tabid;
+	public double percentReduction;
+	public int maxUses;
+	public JSONFieldObj[] armorPieces;
 }
